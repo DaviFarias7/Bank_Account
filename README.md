@@ -9,7 +9,7 @@ O programa lê  os dados de uma conta bancária e depois realiza um saque nesta 
 
 ## Programa em funcionamento
 
-![Program](https://user-images.githubusercontent.com/86566715/145240695-41287105-8f49-426a-b656-424b9a16fadd.PNG)
+![No exception](https://user-images.githubusercontent.com/86566715/145241496-a4f35cb6-80aa-4a80-bf6d-f75a164f98ba.PNG)
 ## Exceções
 - Limite de saque excedido
 
