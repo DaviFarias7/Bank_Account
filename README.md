@@ -13,8 +13,8 @@ O programa lê  os dados de uma conta bancária e depois realiza um saque nesta 
 ## Exceções
 - Limite de saque excedido
 
-- ![Exception withdraw limit](https://user-images.githubusercontent.com/86566715/145240348-db71be2f-633e-42c9-a0b1-e1dfb7e817c3.PNG)
+![Exception withdraw limit](https://user-images.githubusercontent.com/86566715/145240348-db71be2f-633e-42c9-a0b1-e1dfb7e817c3.PNG)
 
 - Saldo insuficiente
 
-- ![Insuficient balance](https://user-images.githubusercontent.com/86566715/145240943-05eb7f2f-2288-4451-a8df-f19c30ae8529.PNG)
+![Insuficient balance](https://user-images.githubusercontent.com/86566715/145240943-05eb7f2f-2288-4451-a8df-f19c30ae8529.PNG)
